@@ -1,0 +1,27 @@
+type: code
+files:
+- name: src/main/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4551#comment
+status: Failed
+feedback:
+  message: |+
+    Failed test #1 of 3. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    8
+    11
+    Correct output:
+    8 11
+
+    Your code output:
+
+  time: Tue, 27 Jul 2021 10:25:26 UTC
+record: -1
