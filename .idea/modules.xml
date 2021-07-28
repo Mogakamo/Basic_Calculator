@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic_Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Integers in action/Theory/Basic_Calculator.Topics-Integers_in_action-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Integers in action/Theory/Basic_Calculator.Topics-Integers_in_action-Theory.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/String templates/Arithmetic expression/Basic_Calculator.Topics-String_templates-Arithmetic_expression.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Arithmetic expression/Basic_Calculator.Topics-String_templates-Arithmetic_expression.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/String templates/Date and time formatting/Basic_Calculator.Topics-String_templates-Date_and_time_formatting.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Date and time formatting/Basic_Calculator.Topics-String_templates-Date_and_time_formatting.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/String templates/Print two numbers on the same line/Basic_Calculator.Topics-String_templates-Print_two_numbers_on_the_same_line.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Print two numbers on the same line/Basic_Calculator.Topics-String_templates-Print_two_numbers_on_the_same_line.iml" />

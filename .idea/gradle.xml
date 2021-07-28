@@ -11,6 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
             <option value="$PROJECT_DIR$/Topics/String templates/Arithmetic expression" />
             <option value="$PROJECT_DIR$/Topics/String templates/Date and time formatting" />
             <option value="$PROJECT_DIR$/Topics/String templates/Print two numbers on the same line" />
