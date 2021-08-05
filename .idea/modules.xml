@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic_Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic Calculator/task/Basic_Calculator.Basic_Calculator-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic Calculator/task/Basic_Calculator.Basic_Calculator-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Declaring classes/Area printer/Basic_Calculator.Topics-Declaring_classes-Area_printer.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Declaring classes/Area printer/Basic_Calculator.Topics-Declaring_classes-Area_printer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Declaring classes/Complex numbers/Basic_Calculator.Topics-Declaring_classes-Complex_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Declaring classes/Complex numbers/Basic_Calculator.Topics-Declaring_classes-Complex_numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Declaring classes/Composition/Basic_Calculator.Topics-Declaring_classes-Composition.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Declaring classes/Composition/Basic_Calculator.Topics-Declaring_classes-Composition.iml" />

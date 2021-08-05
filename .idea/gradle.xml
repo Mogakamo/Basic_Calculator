@@ -11,6 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Basic Calculator/task" />
             <option value="$PROJECT_DIR$/Topics/Declaring classes/Area printer" />
             <option value="$PROJECT_DIR$/Topics/Declaring classes/Complex numbers" />
             <option value="$PROJECT_DIR$/Topics/Declaring classes/Composition" />
