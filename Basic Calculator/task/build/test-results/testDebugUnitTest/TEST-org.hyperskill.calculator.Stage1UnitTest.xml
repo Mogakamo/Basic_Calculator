@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.calculator.Stage1UnitTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-08-05T15:51:44" hostname="amos" time="90.832">
+  <properties/>
+  <testcase name="testShouldCheckButtonsText" classname="org.hyperskill.calculator.Stage1UnitTest" time="88.256"/>
+  <testcase name="testShouldCheckButtonsExist" classname="org.hyperskill.calculator.Stage1UnitTest" time="0.676"/>
+  <testcase name="testShouldCheckEditTextHintIsSetToZero" classname="org.hyperskill.calculator.Stage1UnitTest" time="0.646"/>
+  <testcase name="testShouldCheckEditTextExist" classname="org.hyperskill.calculator.Stage1UnitTest" time="0.609"/>
+  <testcase name="testShouldCheckEditTextContainNothing" classname="org.hyperskill.calculator.Stage1UnitTest" time="0.644"/>
+  <system-out><![CDATA[Downloading from maven 
+[Robolectric] org.hyperskill.calculator.Stage1UnitTest.testShouldCheckButtonsText: sdk=29; resources=BINARY
+Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+Cleaner.create(android.view.ThreadedRenderer@25c076c6,android.graphics.HardwareRenderer$DestroyContextRunnable@44c0a21)
+[Robolectric] org.hyperskill.calculator.Stage1UnitTest.testShouldCheckButtonsExist: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@578a9b17,android.graphics.HardwareRenderer$DestroyContextRunnable@6c6ececf)
+[Robolectric] org.hyperskill.calculator.Stage1UnitTest.testShouldCheckEditTextHintIsSetToZero: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@c33220d,android.graphics.HardwareRenderer$DestroyContextRunnable@6098439d)
+[Robolectric] org.hyperskill.calculator.Stage1UnitTest.testShouldCheckEditTextExist: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@30fdc46,android.graphics.HardwareRenderer$DestroyContextRunnable@11eb0b15)
+[Robolectric] org.hyperskill.calculator.Stage1UnitTest.testShouldCheckEditTextContainNothing: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@7bad344,android.graphics.HardwareRenderer$DestroyContextRunnable@55dff463)
+]]></system-out>
+  <system-err><![CDATA[Downloading: org/robolectric/android-all/10-robolectric-5803371/android-all-10-robolectric-5803371.pom from repository sonatype at https://oss.sonatype.org/content/groups/public/
+Transferring 2K from sonatype
+Downloading: org/robolectric/android-all/10-robolectric-5803371/android-all-10-robolectric-5803371.jar from repository sonatype at https://oss.sonatype.org/content/groups/public/
+Transferring 128332K from sonatype
+]]></system-err>
+</testsuite>

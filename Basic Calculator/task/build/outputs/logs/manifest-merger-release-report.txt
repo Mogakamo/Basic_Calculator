@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/amos/.gradle/caches/transforms-3/4b2d52b2e5ea831e957fcf62e27e4ed9/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0-beta01] /home/amos/.gradle/caches/transforms-3/411ea21a2a0cca80d8fb34f46f04cd5a/transformed/material-1.3.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/amos/.gradle/caches/transforms-3/9661412e3690fbeb230261534a82a167/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/amos/.gradle/caches/transforms-3/ae24eb1eca3b5241bdde47dd97cb1a62/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/amos/.gradle/caches/transforms-3/9d010299f1f3c98021fbec6e90ce7ed5/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/amos/.gradle/caches/transforms-3/93d0259966f139439698672ca74872e1/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/amos/.gradle/caches/transforms-3/6bf943dda5abd35c90187abdf25308a8/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/amos/.gradle/caches/transforms-3/9da33ba93771d7ea3bddca55776c52c1/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/amos/.gradle/caches/transforms-3/bc1d5afe396184e4874fb663f3618d01/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/amos/.gradle/caches/transforms-3/afbc91310d80e6da32a1dc991b5d3085/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/amos/.gradle/caches/transforms-3/eb19beafdb19ba97b8871af0e9261ca5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/amos/.gradle/caches/transforms-3/28fa27799f86fa1cfc788c32dd8d3606/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/amos/.gradle/caches/transforms-3/d9056667a1b33ad81024a5a14e7db392/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/amos/.gradle/caches/transforms-3/edea24347bdd94f2c25b588371687d9e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/amos/.gradle/caches/transforms-3/5f12a4f04436d4a8331ce7218c831fb9/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/amos/.gradle/caches/transforms-3/e15ba7f96f38e5ffad59970f887f0a50/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/amos/.gradle/caches/transforms-3/dae4d743776ec0e6e1390018c1d48f21/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/amos/.gradle/caches/transforms-3/1529d6e13a7bc069c030a0711e522360/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/amos/.gradle/caches/transforms-3/ed969f6fd368409560d8f45d6ec35b25/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /home/amos/.gradle/caches/transforms-3/4a30da38f31bf805174e53dfa475ce98/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/amos/.gradle/caches/transforms-3/19ef8b92719ac32bbf2927de2c34f6ee/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/amos/.gradle/caches/transforms-3/ae138ae4d6665cd507e9af9073a1f20a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/amos/.gradle/caches/transforms-3/88480359f2794e3c2f26d664f2b958de/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/amos/.gradle/caches/transforms-3/3d083a65bc0d957856b3735e2572408a/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/amos/.gradle/caches/transforms-3/e2456a08bdc2b4174010a81ed13c5b98/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/amos/.gradle/caches/transforms-3/57618497b50189f01bc9ff9096eb9d5e/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/amos/.gradle/caches/transforms-3/d9b29e2ff5513f83ede9d463a1447e6a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/amos/.gradle/caches/transforms-3/e737755faaaf2649a1adc30bdec57610/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/amos/.gradle/caches/transforms-3/8ac29412f4b768e9e87fe5ca2784438c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/amos/.gradle/caches/transforms-3/d8b7c6532f71191afa3f7bafacbc1368/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/amos/.gradle/caches/transforms-3/6ff9124685eb1f1ac6528ba4365f9bea/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/amos/.gradle/caches/transforms-3/924f66a1a490d6df319c0fc1b68fac0c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/amos/.gradle/caches/transforms-3/0ef09baae964f2f95edfc228dadd22c2/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/amos/.gradle/caches/transforms-3/a0efb96ef8376bbf5fa72afc2300beb2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/amos/.gradle/caches/transforms-3/68fc1a496948f7f38e7272bce26932a2/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/amos/.gradle/caches/transforms-3/6f69f3b43ed86f7d9abe0d7105d8fc34/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+		INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:5:3-19:17
+MERGED from [com.google.android.material:material:1.3.0-beta01] /home/amos/.gradle/caches/transforms-3/411ea21a2a0cca80d8fb34f46f04cd5a/transformed/material-1.3.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-beta01] /home/amos/.gradle/caches/transforms-3/411ea21a2a0cca80d8fb34f46f04cd5a/transformed/material-1.3.0-beta01/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/amos/.gradle/caches/transforms-3/9661412e3690fbeb230261534a82a167/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/amos/.gradle/caches/transforms-3/9661412e3690fbeb230261534a82a167/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /home/amos/.gradle/caches/transforms-3/4a30da38f31bf805174e53dfa475ce98/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /home/amos/.gradle/caches/transforms-3/4a30da38f31bf805174e53dfa475ce98/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/amos/.gradle/caches/transforms-3/d9b29e2ff5513f83ede9d463a1447e6a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/amos/.gradle/caches/transforms-3/d9b29e2ff5513f83ede9d463a1447e6a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /home/amos/.gradle/caches/transforms-3/4a30da38f31bf805174e53dfa475ce98/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:11:7-38
+activity#org.hyperskill.calculator.MainActivity
+ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:12:5-18:16
+	android:name
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:12:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:13:7-17:23
+action#android.intent.action.MAIN
+ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml:16:19-66
+uses-sdk
+INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] /home/amos/.gradle/caches/transforms-3/4b2d52b2e5ea831e957fcf62e27e4ed9/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/amos/.gradle/caches/transforms-3/4b2d52b2e5ea831e957fcf62e27e4ed9/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0-beta01] /home/amos/.gradle/caches/transforms-3/411ea21a2a0cca80d8fb34f46f04cd5a/transformed/material-1.3.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-beta01] /home/amos/.gradle/caches/transforms-3/411ea21a2a0cca80d8fb34f46f04cd5a/transformed/material-1.3.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/amos/.gradle/caches/transforms-3/9661412e3690fbeb230261534a82a167/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/amos/.gradle/caches/transforms-3/9661412e3690fbeb230261534a82a167/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/amos/.gradle/caches/transforms-3/ae24eb1eca3b5241bdde47dd97cb1a62/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/amos/.gradle/caches/transforms-3/ae24eb1eca3b5241bdde47dd97cb1a62/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/amos/.gradle/caches/transforms-3/9d010299f1f3c98021fbec6e90ce7ed5/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/amos/.gradle/caches/transforms-3/9d010299f1f3c98021fbec6e90ce7ed5/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/amos/.gradle/caches/transforms-3/93d0259966f139439698672ca74872e1/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/amos/.gradle/caches/transforms-3/93d0259966f139439698672ca74872e1/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/amos/.gradle/caches/transforms-3/6bf943dda5abd35c90187abdf25308a8/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/amos/.gradle/caches/transforms-3/6bf943dda5abd35c90187abdf25308a8/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/amos/.gradle/caches/transforms-3/9da33ba93771d7ea3bddca55776c52c1/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/amos/.gradle/caches/transforms-3/9da33ba93771d7ea3bddca55776c52c1/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/amos/.gradle/caches/transforms-3/bc1d5afe396184e4874fb663f3618d01/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/amos/.gradle/caches/transforms-3/bc1d5afe396184e4874fb663f3618d01/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/amos/.gradle/caches/transforms-3/afbc91310d80e6da32a1dc991b5d3085/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/amos/.gradle/caches/transforms-3/afbc91310d80e6da32a1dc991b5d3085/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/amos/.gradle/caches/transforms-3/eb19beafdb19ba97b8871af0e9261ca5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/amos/.gradle/caches/transforms-3/eb19beafdb19ba97b8871af0e9261ca5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/amos/.gradle/caches/transforms-3/28fa27799f86fa1cfc788c32dd8d3606/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/amos/.gradle/caches/transforms-3/28fa27799f86fa1cfc788c32dd8d3606/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/amos/.gradle/caches/transforms-3/d9056667a1b33ad81024a5a14e7db392/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/amos/.gradle/caches/transforms-3/d9056667a1b33ad81024a5a14e7db392/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/amos/.gradle/caches/transforms-3/edea24347bdd94f2c25b588371687d9e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/amos/.gradle/caches/transforms-3/edea24347bdd94f2c25b588371687d9e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/amos/.gradle/caches/transforms-3/5f12a4f04436d4a8331ce7218c831fb9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/amos/.gradle/caches/transforms-3/5f12a4f04436d4a8331ce7218c831fb9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/amos/.gradle/caches/transforms-3/e15ba7f96f38e5ffad59970f887f0a50/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/amos/.gradle/caches/transforms-3/e15ba7f96f38e5ffad59970f887f0a50/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/amos/.gradle/caches/transforms-3/dae4d743776ec0e6e1390018c1d48f21/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/amos/.gradle/caches/transforms-3/dae4d743776ec0e6e1390018c1d48f21/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/amos/.gradle/caches/transforms-3/1529d6e13a7bc069c030a0711e522360/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/amos/.gradle/caches/transforms-3/1529d6e13a7bc069c030a0711e522360/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/amos/.gradle/caches/transforms-3/ed969f6fd368409560d8f45d6ec35b25/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/amos/.gradle/caches/transforms-3/ed969f6fd368409560d8f45d6ec35b25/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /home/amos/.gradle/caches/transforms-3/4a30da38f31bf805174e53dfa475ce98/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/amos/.gradle/caches/transforms-3/4a30da38f31bf805174e53dfa475ce98/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/amos/.gradle/caches/transforms-3/19ef8b92719ac32bbf2927de2c34f6ee/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/amos/.gradle/caches/transforms-3/19ef8b92719ac32bbf2927de2c34f6ee/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/amos/.gradle/caches/transforms-3/ae138ae4d6665cd507e9af9073a1f20a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/amos/.gradle/caches/transforms-3/ae138ae4d6665cd507e9af9073a1f20a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/amos/.gradle/caches/transforms-3/88480359f2794e3c2f26d664f2b958de/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/amos/.gradle/caches/transforms-3/88480359f2794e3c2f26d664f2b958de/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/amos/.gradle/caches/transforms-3/3d083a65bc0d957856b3735e2572408a/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/amos/.gradle/caches/transforms-3/3d083a65bc0d957856b3735e2572408a/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/amos/.gradle/caches/transforms-3/e2456a08bdc2b4174010a81ed13c5b98/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/amos/.gradle/caches/transforms-3/e2456a08bdc2b4174010a81ed13c5b98/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/amos/.gradle/caches/transforms-3/57618497b50189f01bc9ff9096eb9d5e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/amos/.gradle/caches/transforms-3/57618497b50189f01bc9ff9096eb9d5e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/amos/.gradle/caches/transforms-3/d9b29e2ff5513f83ede9d463a1447e6a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/amos/.gradle/caches/transforms-3/d9b29e2ff5513f83ede9d463a1447e6a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/amos/.gradle/caches/transforms-3/e737755faaaf2649a1adc30bdec57610/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/amos/.gradle/caches/transforms-3/e737755faaaf2649a1adc30bdec57610/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/amos/.gradle/caches/transforms-3/8ac29412f4b768e9e87fe5ca2784438c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/amos/.gradle/caches/transforms-3/8ac29412f4b768e9e87fe5ca2784438c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/amos/.gradle/caches/transforms-3/d8b7c6532f71191afa3f7bafacbc1368/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/amos/.gradle/caches/transforms-3/d8b7c6532f71191afa3f7bafacbc1368/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/amos/.gradle/caches/transforms-3/6ff9124685eb1f1ac6528ba4365f9bea/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/amos/.gradle/caches/transforms-3/6ff9124685eb1f1ac6528ba4365f9bea/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/amos/.gradle/caches/transforms-3/924f66a1a490d6df319c0fc1b68fac0c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/amos/.gradle/caches/transforms-3/924f66a1a490d6df319c0fc1b68fac0c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/amos/.gradle/caches/transforms-3/0ef09baae964f2f95edfc228dadd22c2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/amos/.gradle/caches/transforms-3/0ef09baae964f2f95edfc228dadd22c2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/amos/.gradle/caches/transforms-3/a0efb96ef8376bbf5fa72afc2300beb2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/amos/.gradle/caches/transforms-3/a0efb96ef8376bbf5fa72afc2300beb2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/amos/.gradle/caches/transforms-3/68fc1a496948f7f38e7272bce26932a2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/amos/.gradle/caches/transforms-3/68fc1a496948f7f38e7272bce26932a2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/amos/.gradle/caches/transforms-3/6f69f3b43ed86f7d9abe0d7105d8fc34/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/amos/.gradle/caches/transforms-3/6f69f3b43ed86f7d9abe0d7105d8fc34/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+		INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+		ADDED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
+		INJECTED from /home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/src/main/AndroidManifest.xml
