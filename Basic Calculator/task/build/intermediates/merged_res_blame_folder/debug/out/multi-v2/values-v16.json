@@ -4,7 +4,7 @@
             "outputFile": "/home/amos/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/amos/.gradle/caches/transforms-3/12ce3adbd0cb41a09455b718e9301d27/transformed/core-1.3.2/res/values-v16/values-v16.xml",
+                    "source": "/home/amos/.gradle/caches/transforms-3/4a30da38f31bf805174e53dfa475ce98/transformed/core-1.5.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/amos/.gradle/caches/transforms-3/5fc6d1dbf43fcc140afb0a0ee4a31885/transformed/appcompat-1.2.0/res/values-v16/values-v16.xml",
+                    "source": "/home/amos/.gradle/caches/transforms-3/ae24eb1eca3b5241bdde47dd97cb1a62/transformed/appcompat-1.3.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
